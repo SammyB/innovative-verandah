@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;;;;AAWC,6BAA8B;EAC7B,SAAS,EAAE,IAAI;;AAGhB,EAAG;EACF,SAAS,EAAE,KAAK;;AAGjB,EAAG;EACF,SAAS,EAAE,MAAM;;;AAOhB,cAAE;EACD,SAAS,EAAE,MAAM;;;AAOpB,OAAQ;EACP,OAAO,EAAE,YAAY;EAErB,UAAG;IACF,SAAS,EAAE,MAAM;EAGlB,SAAE;IACD,SAAS,EAAE,MAAM;IACjB,WAAW,EAAE,MAAM",
+"sources": ["../sass/style-wide.scss"],
+"names": [],
+"file": "style-wide.css"
+}
