@@ -51,6 +51,34 @@
 		// navigation
 			$(".drawer").drawer();
 
+		// form
+			$("#ajax-contact-form").submit(function(){
+				var str = $(this).serialize();
+
+				$.ajax({
+					type: "POST",
+					url: "contact.php",
+					data: str,
+					success: function(msg){
+						$(document).ajaxComplete(function(event, request){
+							if(msg == 'OK')
+							{
+								result = '<div class="notification_ok">Sent successfully. Thank you!</div>';
+								$("#fields").hide();
+								$("#note--field").html(result);
+							}
+							else {
+								result = msg;
+							}
+							$("#note--field").hide();
+							$("#note--field").html(result).slideDown("slow");
+							$("#note--field").html(result);
+						});
+					}
+				});
+			   return false;
+			});
+
 	});
 
 })(jQuery);
