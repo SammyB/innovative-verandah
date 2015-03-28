@@ -718,6 +718,10 @@
 			background-image: url('images/top-3200.svg'), url('images/overlay.png'),
 				url('../images/header-verandah.jpg');
 		}
+		&.cooldek {
+			background-image: url('images/top-3200.svg'), url('images/overlay.png'),
+				url('../images/header-cooldek.jpg');
+		}		
 
 		&:before,
 		&:after {

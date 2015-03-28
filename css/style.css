@@ -37,7 +37,7 @@ a {
   -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
-  color: #343a95;
+  color: #6EC7D8;
   text-decoration: none; }
   a:hover {
     border-bottom-color: transparent; }
@@ -207,7 +207,7 @@ textarea {
   select:focus,
   textarea:focus {
     background: rgba(224, 224, 224, 0.15);
-    border-color: #343a95; }
+    border-color: #6EC7D8; }
 
 input[type="text"],
 input[type="password"],
@@ -424,7 +424,7 @@ input[type="button"],
   -o-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
   -ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
-  background: #6ec7d8;
+  background: #6EC7D8;
   border-radius: 4px;
   border: 0;
   color: #ffffff;
@@ -455,7 +455,7 @@ input[type="button"],
   .button.alt {
     background: none;
     box-shadow: inset 0 0 0 1px rgba(224, 224, 224, 0.75);
-    color: #6ec7d8; }
+    color: #6EC7D8; }
     input[type="submit"].alt:hover,
     input[type="reset"].alt:hover,
     input[type="button"].alt:hover,
@@ -572,6 +572,8 @@ input[type="button"],
     background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../images/header-aboutus.jpg"); }
   #header.verandah {
     background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../images/header-verandah.jpg"); }
+  #header.cooldek {
+    background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../images/header-cooldek.jpg"); }
   #header:before, #header:after {
     background: rgba(224, 224, 224, 0.75);
     content: '';
@@ -591,7 +593,7 @@ input[type="button"],
     color: rgba(255, 255, 255, 0.8); }
     #header a:hover {
       border-bottom-color: transparent;
-      color: #343a95; }
+      color: #6EC7D8; }
   #header strong, #header b {
     color: #ffffff; }
   #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -601,11 +603,11 @@ input[type="button"],
   #header input[type="button"],
   #header .button {
     background: #ffffff;
-    color: #6ec7d8; }
+    color: #6EC7D8; }
   #header .logo {
-    background: #343a95;
+    background: #6EC7D8;
     border-radius: 100%;
-    color: #ffffff;
+    color: #333333;
     cursor: default;
     display: inline-block;
     font-size: 2.25em;
@@ -635,12 +637,12 @@ input[type="button"],
 /* Footer */
 #footer {
   background-attachment: scroll;
-  background-color: #343a95;
+  background-color: #6EC7D8;
   background-image: url("images/bottom-3200.svg");
   background-position: top center;
   background-repeat: repeat-x;
   background-size: 3200px 460px;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(51, 51, 51, 0.8);
   /*
   	Since the SVG background occupies a lot of vertical space, we'll
   	add additional top padding (to move our content out of its way)
@@ -660,34 +662,34 @@ input[type="button"],
     width: 1px;
     z-index: 0; }
   #footer a {
-    color: #ffffff; }
+    color: #333333; }
   #footer strong, #footer b {
-    color: #ffffff; }
+    color: #333333; }
   #footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-    color: #ffffff; }
+    color: #333333; }
   #footer header p {
-    color: rgba(255, 255, 255, 0.5); }
+    color: rgba(51, 51, 51, 0.5); }
   #footer input[type="submit"],
   #footer input[type="reset"],
   #footer input[type="button"],
   #footer .button {
-    background: #ffffff;
-    box-shadow: inset 0 0 0 1px #ffffff;
-    color: #343a95; }
+    background: #333333;
+    box-shadow: inset 0 0 0 1px #333333;
+    color: #6EC7D8; }
     #footer input[type="submit"]:hover,
     #footer input[type="reset"]:hover,
     #footer input[type="button"]:hover,
     #footer .button:hover {
       background: rgba(224, 224, 224, 0.15);
-      color: #ffffff; }
+      color: #333333; }
   #footer input[type="text"]:focus,
   #footer input[type="password"]:focus,
   #footer input[type="email"]:focus,
   #footer select:focus,
   #footer textarea:focus {
-    border-color: #ffffff; }
+    border-color: #333333; }
   #footer .formerize-placeholder {
-    color: rgba(255, 255, 255, 0.3) !important; }
+    color: rgba(51, 51, 51, 0.3) !important; }
   #footer form {
     margin: 3em 0; }
   #footer .melbourne-verandah-authorized {
@@ -704,7 +706,7 @@ input[type="button"],
       max-width: 100%;
       display: block; }
   #footer .copyright {
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(51, 51, 51, 0.5);
     font-size: 0.8em;
     line-height: 1em;
     margin: 3em 0 0 0; }
@@ -720,7 +722,7 @@ input[type="button"],
       #footer .copyright li a, #footer .copyright li span {
         color: inherit; }
         #footer .copyright li a:hover, #footer .copyright li span:hover {
-          color: #ffffff; }
+          color: #333333; }
 
 /* Main */
 #main {

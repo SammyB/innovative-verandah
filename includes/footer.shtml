@@ -27,6 +27,21 @@
 					</div>
 					<div class="row">
 						<div class="12u">
+							<select name="verandah">
+								<option value="">- Please Select -</option>
+								<option value="Cooldek">Cooldek</option>
+								<option value="Outback Flat">Outback Flat</option>
+								<option value="Outback Gable">Outback Gable</option>
+								<option value="Outback Curved">Outback Curved</option>
+								<option value="Outback Sunroof">Outback Sunroof</option>
+								<option value="Pergola">Pergola</option>
+								<option value="Patio">Patio</option>
+								<option value="Not sure!">Not sure!</option>
+							</select>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u">
 							<textarea name="message" placeholder="Message" rows="6"></textarea>
 						</div>
 					</div>

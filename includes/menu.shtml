@@ -17,17 +17,17 @@
 					<li class="drawer-menu-item">
 						<a href="/melbourne/verandahs/">Verandahs</a>
 						<ul class="drawer-submenu">
-							<li class="drawer-submenu-item"><a href="#">Cooldek</a></li>
-							<li class="drawer-submenu-item"><a href="#">Outback flat</a></li>
-							<li class="drawer-submenu-item"><a href="#">Outback gable</a></li>
-							<li class="drawer-submenu-item"><a href="#">Outback curved</a></li>
-							<li class="drawer-submenu-item"><a href="#">Pergola</a></li>
-							<li class="drawer-submenu-item"><a href="#">Outback sunroof</a></li>
+							<li class="drawer-submenu-item"><a href="/melbourne/verandahs/cooldek">Cooldek</a></li>
+							<li class="drawer-submenu-item"><a href="/melbourne/verandahs/outback-flat">Outback flat</a></li>
+							<li class="drawer-submenu-item"><a href="/melbourne/verandahs/outback-gable">Outback gable</a></li>
+							<li class="drawer-submenu-item"><a href="/melbourne/verandahs/outback-curved">Outback curved</a></li>
+							<li class="drawer-submenu-item"><a href="/melbourne/verandahs/outback-sunroof">Outback sunroof</a></li>
+							<li class="drawer-submenu-item"><a href="/melbourne/verandahs/pergola">Pergola</a></li>
 						</ul>
 					</li>
-					<li class="drawer-menu-item"><a href="/">Request a Quote</a></li>
-					<li class="drawer-menu-item"><a href="/">Building Insurance / License</a></li>
-					<li class="drawer-menu-item"><a href="/">Contact Us</a></li>
+					<li class="drawer-menu-item"><a href="/melbourne/request-a-quote">Request a Quote</a></li>
+					<li class="drawer-menu-item"><a href="/melbourne/building-insurance-license">Building Insurance / License</a></li>
+					<li class="drawer-menu-item"><a href="/melbourne/contact-us">Contact Us</a></li>
 				</ul>
 			
 			<div class="drawer-footer"><span></span></div>

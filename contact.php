@@ -11,7 +11,7 @@ if($post)
 		$name = stripslashes($_POST['name']);
 		$phone = trim($_POST['phone']);
 		$email = trim($_POST['email']);
-		//$class = trim($_POST['class']);
+		$verandah = trim($_POST['verandah']);
 		$message = stripslashes($_POST['message']);
 
 		$error = '';
@@ -47,7 +47,7 @@ if(!$error)
 		$email_message .= "<tr><td><strong>Name:</strong> </td><td>" . clean_string($name) . "</td></tr>";
 		$email_message .= "<tr><td><strong>Phone:</strong> </td><td>" . clean_string($phone) . "</td></tr>";
 		$email_message .= "<tr><td><strong>Email:</strong> </td><td>" . clean_string($email) . "</td></tr>";
-		//$email_message .= "<tr><td><strong>Class you are interested in?:</strong> </td><td>" . clean_string($class) . "</td></tr>";
+		$email_message .= "<tr><td><strong>Verandah Type:</strong> </td><td>" . clean_string($verandah) . "</td></tr>";
 		$email_message .= "<tr><td><strong>Message:</strong> </td><td>" . clean_string($message) . "</td></tr>";
 		$email_message .= "</table>";
 		$email_message .= "</body></html>";
