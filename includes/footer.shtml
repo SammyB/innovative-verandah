@@ -50,6 +50,15 @@
 			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
 		</ul>
 
+		<div class="melbourne-verandah-authorized">
+			<a href="http://www.stratco.com.au/" target="_blank"><img src="/images/stratco-logo.png" alt="Authorized Stratco Dealer" title="Authorized Stratco Dealer" /></a>
+
+			<a href="http://www.masterbuilders.com.au/" target="_blank"><img src="/images/master-builder.png" alt="Master Builders Association" title="Master Builders Association" /></a>
+
+			<a href="http://www.vba.vic.gov.au/" target="_blank"><img src="/images/registered-building-prac.png" alt="Registered Building Practitioner" title="Registered Building Practitioner" /></a>
+			
+		</div>
+
 		<ul class="copyright">
 			<li>&copy; Innovative Verandahs. All rights reserved.</li><li>Designed & Developed by: <a href="http://au.linkedin.com/in/salvatorebrunno/en">Sam Brunno</a></li>
 		</ul>
