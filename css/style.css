@@ -579,8 +579,8 @@ input[type="button"],
     background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../images/header-verandah.jpg"); }
   #header.cooldek {
     background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../images/header-cooldek.jpg"); }
-  #header.outback-flat {
-    background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../images/header-outback-flat.jpg"); }
+  #header.outback-gable {
+    background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../images/header-outback-gable.jpg"); }
   #header:before, #header:after {
     background: rgba(224, 224, 224, 0.75);
     content: '';
