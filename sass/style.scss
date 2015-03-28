@@ -732,6 +732,10 @@
 			background-image: url('images/top-3200.svg'), url('images/overlay.png'),
 				url('../images/header-outback-gable.jpg');
 		}
+		&.outback-curved {
+			background-image: url('images/top-3200.svg'), url('images/overlay.png'),
+				url('../images/header-outback-curved.jpg');
+		}
 		
 
 		&:before,
