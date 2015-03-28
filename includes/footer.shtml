@@ -1,0 +1,58 @@
+<div id="footer">
+	<div class="container 75%">
+
+		<header class="major last">
+			<h2>Contact us for a Free Quote</h2>
+		</header>
+
+		<p>Use the form below, or contact Shane on 0411 111 111.<br>Alternatively email us directly on <a href="mailto:shane@innovativeverandahs.com?Website%20Enquiry">shane@innovativeverandahs.com</a></p>
+
+		<form id="ajax-contact-form" action="javascript:alert('success!');">
+			<fieldset class="info_fieldset">
+
+				<div id="note--field"></div>
+				<div id="fields">
+					<div class="row">
+						<div class="12u">
+							<input type="text" name="name" placeholder="Name" />
+						</div>
+					</div>
+					<div class="row">
+						<div class="6u 12u(mobilep)">
+							<input type="text" name="phone" placeholder="Phone Number" />
+						</div>
+						<div class="6u 12u(mobilep)">
+							<input class="textbox" type="text" name="email" value="" placeholder="Email Address*" />
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u">
+							<textarea name="message" placeholder="Message" rows="6"></textarea>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u">
+							<ul class="actions">
+								<li><input type="submit" value="Send Message" /></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+			</fieldset>
+		</form>
+
+		<ul class="icons">
+			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+		</ul>
+
+		<ul class="copyright">
+			<li>&copy; Innovative Verandahs. All rights reserved.</li><li>Designed & Developed by: <a href="http://au.linkedin.com/in/salvatorebrunno/en">Sam Brunno</a></li>
+		</ul>
+
+	</div>
+</div>

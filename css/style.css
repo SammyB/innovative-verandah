@@ -566,7 +566,12 @@ input[type="button"],
   color: rgba(255, 255, 255, 0.8);
   padding: 10em 0 20em 0;
   position: relative;
-  text-align: center; }
+  text-align: center;
+  /* different header images */ }
+  #header.about-us {
+    background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../images/header-aboutus.jpg"); }
+  #header.verandah {
+    background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../images/header-verandah.jpg"); }
   #header:before, #header:after {
     background: rgba(224, 224, 224, 0.75);
     content: '';

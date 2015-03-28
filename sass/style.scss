@@ -709,6 +709,16 @@
 		position: relative;
 		text-align: center;
 
+		/* different header images */
+		&.about-us {
+			background-image: url('images/top-3200.svg'), url('images/overlay.png'),
+				url('../images/header-aboutus.jpg');
+		}
+		&.verandah {
+			background-image: url('images/top-3200.svg'), url('images/overlay.png'),
+				url('../images/header-verandah.jpg');
+		}
+
 		&:before,
 		&:after {
 			background: $color-border;
