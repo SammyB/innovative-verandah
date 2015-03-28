@@ -239,6 +239,9 @@ textarea {
 .formerize-placeholder {
   color: rgba(110, 110, 110, 0.5) !important; }
 
+#note--field {
+  color: #993333; }
+
 /* Image */
 .image {
   border: 0;
@@ -574,6 +577,8 @@ input[type="button"],
     background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../images/header-verandah.jpg"); }
   #header.cooldek {
     background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../images/header-cooldek.jpg"); }
+  #header.outback-flat {
+    background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../images/header-outback-flat.jpg"); }
   #header:before, #header:after {
     background: rgba(224, 224, 224, 0.75);
     content: '';

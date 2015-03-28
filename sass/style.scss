@@ -292,6 +292,10 @@
 		color: transparentize($color-fg, 0.5) !important;
 	}
 
+	#note--field {
+		color: #993333;
+	}
+
 /* Image */
 
 	.image {
@@ -721,7 +725,12 @@
 		&.cooldek {
 			background-image: url('images/top-3200.svg'), url('images/overlay.png'),
 				url('../images/header-cooldek.jpg');
-		}		
+		}
+		&.outback-flat {
+			background-image: url('images/top-3200.svg'), url('images/overlay.png'),
+				url('../images/header-outback-flat.jpg');
+		}
+		
 
 		&:before,
 		&:after {
