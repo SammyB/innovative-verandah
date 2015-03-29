@@ -736,7 +736,10 @@
 			background-image: url('images/top-3200.svg'), url('images/overlay.png'),
 				url('../images/header-outback-curved.jpg');
 		}
-		
+		&.outback-sunroof {
+			background-image: url('images/top-3200.svg'), url('images/overlay.png'),
+				url('../images/header-outback-sunroof.jpg');
+		}
 
 		&:before,
 		&:after {
