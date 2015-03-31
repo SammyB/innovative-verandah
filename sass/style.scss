@@ -740,6 +740,10 @@
 			background-image: url('images/top-3200.svg'), url('images/overlay.png'),
 				url('../images/header-outback-sunroof.jpg');
 		}
+		&.pergola {
+			background-image: url('images/top-3200.svg'), url('images/overlay.png'),
+				url('../images/header-pergola.jpg');
+		}
 
 		&:before,
 		&:after {

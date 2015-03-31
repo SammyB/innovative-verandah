@@ -79,6 +79,33 @@
 			   return false;
 			});
 
+			$("#ajax-requestquote-form").submit(function(){
+				var str2 = $(this).serialize();
+
+				$.ajax({
+					type: "POST",
+					url: "quote.php",
+					data: str2,
+					success: function(msg){
+						$(document).ajaxComplete(function(event, request){
+							if(msg == 'OK')
+							{
+								result = '<div class="notification_ok">Sent successfully. Thank you!</div>';
+								$("#fields").hide();
+								$("#note--field").html(result);
+							}
+							else {
+								result = msg;
+							}
+							$("#note--field").hide();
+							$("#note--field").html(result).slideDown("slow");
+							$("#note--field").html(result);
+						});
+					}
+				});
+			   return false;
+			});
+
 	});
 
 })(jQuery);
