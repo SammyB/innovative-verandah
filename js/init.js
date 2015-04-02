@@ -57,7 +57,7 @@
 
 				$.ajax({
 					type: "POST",
-					url: "contact.php",
+					url: "/contact.php",
 					data: str,
 					success: function(msg){
 						$(document).ajaxComplete(function(event, request){
@@ -84,7 +84,7 @@
 
 				$.ajax({
 					type: "POST",
-					url: "quote.php",
+					url: "/quote.php",
 					data: str2,
 					success: function(msg){
 						$(document).ajaxComplete(function(event, request){
