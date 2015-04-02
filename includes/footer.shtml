@@ -1,7 +1,7 @@
 <div id="footer">
 	<div class="container 75%">
 
-		<header class="major last">
+		<header id="contact_link" class="major last">
 			<h2>Contact us for a Free Quote</h2>
 		</header>
 

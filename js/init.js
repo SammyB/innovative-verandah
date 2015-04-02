@@ -106,6 +106,21 @@
 			   return false;
 			});
 
+		// contact us scroll
+			$("#contact-scroll").click(function() {
+				$('.drawer').drawer('close');
+				if ($('#ajax-requestquote-form').length) {
+					$('html, body').animate({
+						scrollTop: $("#ajax-requestquote-form").offset().top
+					}, 1000);
+				} else {
+					$('html, body').animate({
+						scrollTop: $("#contact_link").offset().top
+					}, 1000);
+				}
+				
+			});
+
 	});
 
 })(jQuery);

@@ -27,7 +27,7 @@
 					</li>
 					<li class="drawer-menu-item"><a href="/melbourne/request-a-quote">Request a Quote</a></li>
 					<li class="drawer-menu-item"><a href="/melbourne/building-insurance-license">Building Insurance / License</a></li>
-					<li class="drawer-menu-item"><a href="/melbourne/contact-us">Contact Us</a></li>
+					<li class="drawer-menu-item"><a id="contact-scroll" href="#">Contact Us</a></li>
 				</ul>
 			
 			<div class="drawer-footer"><span></span></div>
