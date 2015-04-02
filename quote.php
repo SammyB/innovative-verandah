@@ -66,12 +66,19 @@ if(!$error)
 		$email_message .= '<img src="http://www.innovativeverandahs.com/images/innovative-logo.jpg" /><br><br>';
 		$email_message .= '<table rules="all" style="border-color: #666;" border="1" cellspacing="5" cellpadding="10">';
 		$email_message .= "<tr><td><strong>Name:</strong> </td><td>" . clean_string($name) . "</td></tr>";
-		$email_message .= "<tr><td><strong>Phone:</strong> </td><td>" . clean_string($home) . "</td></tr>";
 		$email_message .= "<tr><td><strong>Email:</strong> </td><td>" . clean_string($email) . "</td></tr>";
-		$email_message .= "<tr><td><strong>Verandah Type:</strong> </td><td>" . clean_string($verandah) . "</td></tr>";
-		$email_message .= "<tr><td><strong>Message:</strong> </td><td>" . clean_string($message) . "</td></tr>";
+		$email_message .= "<tr><td><strong>Address:</strong> </td><td>" . clean_string($address) . "</td></tr>";
+		$email_message .= "<tr><td><strong>Post Code:</strong> </td><td>" . clean_string($postcode) . "</td></tr>";
+		$email_message .= "<tr><td><strong>Home Number:</strong> </td><td>" . clean_string($home) . "</td></tr>";
+		$email_message .= "<tr><td><strong>Work Number:</strong> </td><td>" . clean_string($work) . "</td></tr>";
+		$email_message .= "<tr><td><strong>Mobile Phone:</strong> </td><td>" . clean_string($mobile) . "</td></tr>";
+		$email_message .= "<tr><td><strong>Type of Product:</strong> </td><td>" . clean_string($verandah) . "</td></tr>";
+		$email_message .= "<tr><td><strong>Other Details / Message:</strong> </td><td>" . clean_string($message) . "</td></tr>";
+		$email_message .= "<tr><td><strong>Where did you hear about Innovative Verandahs?:</strong> </td><td>" . clean_string($where) . "</td></tr>";
 		$email_message .= "</table>";
 		$email_message .= "</body></html>";
+
+
 
 		$headers = "From: " . $email . "\r\n";
 		$headers .= "Reply-To: ". $email . "\r\n";
