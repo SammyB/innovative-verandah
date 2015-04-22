@@ -483,6 +483,11 @@ input[type="button"],
   input[type="button"].small,
   .button.small {
     font-size: 0.8em; }
+  input[type="submit"].banner,
+  input[type="reset"].banner,
+  input[type="button"].banner,
+  .button.banner {
+    margin-top: 20px; }
 
 /* Box */
 .box {
