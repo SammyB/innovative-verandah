@@ -37,7 +37,7 @@ if(!$error)
 		  return str_replace($bad,"",$string);
 		}
 
-		$subject = clean_string($name).": Website Inquiry from Innovative Verandah Website";
+		$subject = clean_string($name).": Website Inquiry from Innovative Verandahs Website";
 
 		// PREPARE THE BODY OF THE MESSAGE
 
