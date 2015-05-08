@@ -5,7 +5,7 @@
 			<h2>Contact us for a Free Quote</h2>
 		</header>
 
-		<p>Use the form below, or contact Shane on 0411 111 111.<br>Alternatively email us directly on <a href="mailto:shane@innovativeverandahs.com?Website%20Enquiry">shane@innovativeverandahs.com</a></p>
+		<p>Use the form below, or contact Shane on 0400 661 778.<br>Alternatively email us directly on <a href="mailto:shane@innovativeverandahs.com?Website%20Enquiry">shane@innovativeverandahs.com</a></p>
 
 		<form id="ajax-contact-form" action="javascript:alert('success!');">
 			<fieldset class="info_fieldset">
@@ -58,17 +58,13 @@
 		</form>
 
 		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+			<!--li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li-->
+			<li><a href="https://www.facebook.com/innovativeverandahs" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+			<!--li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li-->
 		</ul>
 
 		<div class="melbourne-verandah-authorized">
 			<a href="http://www.stratco.com.au/" target="_blank"><img src="/images/stratco-logo.png" alt="Authorized Stratco Dealer" title="Authorized Stratco Dealer" /></a>
-
-			<a href="http://www.masterbuilders.com.au/" target="_blank"><img src="/images/master-builder.png" alt="Master Builders Association" title="Master Builders Association" /></a>
 
 			<a href="http://www.vba.vic.gov.au/" target="_blank"><img src="/images/registered-building-prac.png" alt="Registered Building Practitioner" title="Registered Building Practitioner" /></a>
 			

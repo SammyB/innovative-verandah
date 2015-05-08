@@ -121,6 +121,16 @@
 				
 			});
 
+		// click to view more scroll from main banner
+			$("#banner-scroll").click(function() {
+				
+				$('.drawer').drawer('close');				
+				$('html, body').animate({
+					scrollTop: $("#main").offset().top
+				}, 1000);
+				
+			});
+
 	});
 
 })(jQuery);

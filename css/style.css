@@ -90,6 +90,10 @@ blockquote {
   font-style: italic;
   padding: 1em 0 1em 2em; }
 
+span.stracto {
+  color: #9d1225;
+  font-weight: bold; }
+
 /* Section/Article */
 section.special, article.special {
   text-align: center; }
@@ -99,7 +103,7 @@ header {
   header p {
     position: relative;
     top: -1em;
-    color: #888888;
+    color: #333333;
     text-transform: uppercase;
     letter-spacing: 0.075em; }
   header.major {
@@ -479,6 +483,11 @@ input[type="button"],
   input[type="button"].small,
   .button.small {
     font-size: 0.8em; }
+  input[type="submit"].banner,
+  input[type="reset"].banner,
+  input[type="button"].banner,
+  .button.banner {
+    margin-top: 20px; }
 
 /* Box */
 .box {

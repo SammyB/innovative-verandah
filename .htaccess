@@ -1,2 +1,11 @@
+
+RewriteEngine on
 AddHandler server-parsed .html
-AddType text/x-server-parsed-html .shtml
+RewriteCond %{HTTP_HOST} ^innovativeverandahs\.sammyb\.com\.au$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.innovativeverandahs\.sammyb\.com\.au$
+RewriteRule ^/?$ "http\:\/\/www\.innovativeverandahs\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^melbourneverandahs\.sammyb\.com\.au$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.melbourneverandahs\.sammyb\.com\.au$
+RewriteRule ^/?$ "http\:\/\/www\.innovativeverandahs\.com\/" [R=301,L]
+
