@@ -598,6 +598,7 @@
 			background: none;
 			border: none;
 			padding: 0;
+			h2 {background-color:#ffffff;}
 		}
 
 		img { max-width: 100%; }
@@ -756,7 +757,7 @@
 
 		&:before,
 		&:after {
-			background: $color-border;
+			background: $color-border-bg2;
 			content: '';
 			left: 50%;
 			position: absolute;
@@ -768,6 +769,7 @@
 			height: calc(100% - 50px);
 			opacity: 0.15;
 			top: 0;
+			background: none;
 		}
 
 		&:after {
@@ -862,7 +864,7 @@
 		text-align: center;
 
 		&:before {
-			background: $color-border;
+			background: $color-border-bg;
 			content: '';
 			height: calc(460px + 6em);
 			left: 50%;
@@ -973,7 +975,7 @@
 		z-index: 1;
 		
 		&:before {
-			background: $color-border;
+			background: $color-border-bg;
 			content: '';
 			height: 100%;
 			left: 50%;
