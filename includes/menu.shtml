@@ -26,7 +26,15 @@
 						</ul>
 					</li>
 					<li class="drawer-menu-item"><a href="/melbourne/request-a-quote">Request a Quote</a></li>
-					<li class="drawer-menu-item"><a href="/melbourne/building-insurance-license">Building Insurance / License</a></li>
+					<li class="drawer-menu-item">
+						<a href="/melbourne/building-insurance-license">We've got it all covered.</a>
+						<ul class="drawer-submenu">
+							<li class="drawer-submenu-item"><a href="/melbourne/building-insurance-license/#building-permit">When do i need a building permit?</a></li>
+							<li class="drawer-submenu-item"><a href="/melbourne/building-insurance-license/#building-prac">Building practitioners</a></li>
+							<li class="drawer-submenu-item"><a href="/melbourne/building-insurance-license/#dbi">Domestic builders insurance</a></li>
+							<li class="drawer-submenu-item"><a href="/melbourne/building-insurance-license/#contracts">What should be in the contract?</a></li>
+						</ul>
+					</li>
 					<li class="drawer-menu-item"><a id="contact-scroll" href="#">Contact Us</a></li>
 				</ul>
 			
