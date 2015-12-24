@@ -1,15 +1,11 @@
 <div id="footer">
 	<div class="container 75%">
-
 		<header id="contact_link" class="major last">
 			<h2>Contact us for a Free Quote</h2>
 		</header>
-
-		<p>Use the form below, or contact Shane on 0400 661 778.<br>Alternatively email us directly on <a href="mailto:shane@innovativeverandahs.com?Website%20Enquiry">shane@innovativeverandahs.com</a></p>
-
+		<p>Use the form below, or contact Shane on <span itemprop="telephone"><a href="tel:0400661778">0400661778</a></span>.<br>Alternatively email us directly on <a href="mailto:shane@innovativeverandahs.com?Website%20Enquiry" itemprop="email">shane@innovativeverandahs.com</a></p>
 		<form id="ajax-contact-form" action="javascript:alert('success!');">
 			<fieldset class="info_fieldset">
-
 				<div id="note--field"></div>
 				<div id="fields">
 					<div class="row">
@@ -56,23 +52,19 @@
 
 			</fieldset>
 		</form>
-
 		<ul class="icons">
 			<!--li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li-->
 			<li><a href="https://www.facebook.com/innovativeverandahs" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
 			<!--li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li-->
 		</ul>
-
 		<div class="melbourne-verandah-authorized">
 			<a href="http://www.stratco.com.au/" target="_blank"><img src="/images/stratco-logo.png" alt="Authorized Stratco Dealer" title="Authorized Stratco Dealer" /></a>
 
-			<a href="http://www.vba.vic.gov.au/" target="_blank"><img src="/images/registered-building-prac.png" alt="Registered Building Practitioner" title="Registered Building Practitioner" /></a>
-			
+			<a href="http://www.vba.vic.gov.au/" target="_blank"><img src="/images/registered-building-prac.png" alt="Registered Building Practitioner" title="Registered Building Practitioner" /></a>		
 		</div>
 
 		<ul class="copyright">
-			<li>&copy; Innovative Verandahs. All rights reserved.</li><li>Designed & Developed by: <a href="http://au.linkedin.com/in/salvatorebrunno/en">Sam Brunno</a></li>
+			<li>&copy; <a href="http://www.innovativeverandahs.com/melbourne/about-verandahs/location-melbourne.html">Innovative Verandahs Melbourne</a>. All rights reserved.</li><li>Designed & Developed by: <a href="http://au.linkedin.com/in/salvatorebrunno/en">Sam Brunno</a></li>
 		</ul>
-
 	</div>
 </div>
