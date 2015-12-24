@@ -4,35 +4,50 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 /* Basic */
+/* line 12, ../../sass/ie/v8.scss */
 hr {
-  border-top: solid 1px #cccccc; }
+  border-top: solid 1px #cccccc;
+}
 
+/* line 16, ../../sass/ie/v8.scss */
 blockquote {
-  border-left: solid 0.5em #cccccc; }
+  border-left: solid 0.5em #cccccc;
+}
 
 /* Section/Article */
+/* line 23, ../../sass/ie/v8.scss */
 header.major {
-  border-color: #cccccc; }
-  header.major p {
-    border-top: solid 1px #cccccc; }
+  border-color: #cccccc;
+}
+/* line 26, ../../sass/ie/v8.scss */
+header.major p {
+  border-top: solid 1px #cccccc;
+}
 
+/* line 33, ../../sass/ie/v8.scss */
 footer.major {
-  border-color: #cccccc; }
+  border-color: #cccccc;
+}
 
 /* Button */
+/* line 40, ../../sass/ie/v8.scss */
 input[type="submit"],
 input[type="reset"],
 input[type="button"],
 .button {
   position: relative;
-  -ms-behavior: url("css/ie/PIE.htc"); }
-  input[type="submit"].alt,
-  input[type="reset"].alt,
-  input[type="button"].alt,
-  .button.alt {
-    border: solid 1px #cccccc; }
+  -ms-behavior: url("css/ie/PIE.htc");
+}
+/* line 47, ../../sass/ie/v8.scss */
+input[type="submit"].alt,
+input[type="reset"].alt,
+input[type="button"].alt,
+.button.alt {
+  border: solid 1px #cccccc;
+}
 
 /* Form */
+/* line 54, ../../sass/ie/v8.scss */
 input[type="text"],
 input[type="password"],
 input[type="email"],
@@ -40,55 +55,74 @@ select,
 textarea {
   position: relative;
   border: solid 1px #cccccc;
-  -ms-behavior: url("css/ie/PIE.htc"); }
+  -ms-behavior: url("css/ie/PIE.htc");
+}
 
 /* Image */
+/* line 66, ../../sass/ie/v8.scss */
 .image {
   border: 0;
   display: inline-block;
-  position: relative; }
-  .image:after {
-    display: none; }
+  position: relative;
+}
+/* line 71, ../../sass/ie/v8.scss */
+.image:after {
+  display: none;
+}
 
 /* Box */
+/* line 78, ../../sass/ie/v8.scss */
 .box {
-  border: solid 1px #cccccc; }
+  border: solid 1px #cccccc;
+}
 
 /* Header */
+/* line 84, ../../sass/ie/v8.scss */
 #header {
   background-image: url("../../images/header.jpg") !important;
   background-size: cover !important;
   background-position: scroll !important;
   -ms-behavior: url("css/ie/backgroundsize.min.htc");
   padding: 8em 0 !important;
-  color: #ffffff; }
-  #header a {
-    color: inherit; }
-  #header:before {
-    content: '';
-    background-image: url("../images/overlay.png");
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    display: block;
-    z-index: 0; }
-  #header > * {
-    position: relative;
-    z-index: 1; }
-  #header .logo {
-    -ms-behavior: url("css/ie/PIE.htc"); }
+  color: #ffffff;
+}
+/* line 92, ../../sass/ie/v8.scss */
+#header a {
+  color: inherit;
+}
+/* line 96, ../../sass/ie/v8.scss */
+#header:before {
+  content: '';
+  background-image: url("../images/overlay.png");
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  z-index: 0;
+}
+/* line 108, ../../sass/ie/v8.scss */
+#header > * {
+  position: relative;
+  z-index: 1;
+}
+/* line 113, ../../sass/ie/v8.scss */
+#header .logo {
+  -ms-behavior: url("css/ie/PIE.htc");
+}
 
 /* Footer */
+/* line 120, ../../sass/ie/v8.scss */
 #footer {
   background-image: none !important;
   margin-top: 0 !important;
   padding: 4em 0 !important;
-  color: #333333; }
+  color: #333333;
+}
 
 /* Main */
+/* line 129, ../../sass/ie/v8.scss */
 #main {
-  padding: 4em 0; }
-
-/*# sourceMappingURL=v8.css.map */
+  padding: 4em 0;
+}

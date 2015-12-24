@@ -4,62 +4,88 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 /* Section/Article */
+/* line 13, ../sass/style-mobilep.scss */
 header.major {
   padding-left: 1em;
-  padding-right: 1em; }
+  padding-right: 1em;
+}
 
+/* line 20, ../sass/style-mobilep.scss */
 footer.major {
   padding-left: 1em;
-  padding-right: 1em; }
+  padding-right: 1em;
+}
 
 /* List */
+/* line 30, ../sass/style-mobilep.scss */
 ul.icons li {
-  padding: 0.2em; }
+  padding: 0.2em;
+}
+/* line 36, ../sass/style-mobilep.scss */
 ul.actions li {
   display: block;
-  padding: 15px 0 0 0; }
-  ul.actions li:first-child {
-    padding: 0; }
+  padding: 15px 0 0 0;
+}
+/* line 40, ../sass/style-mobilep.scss */
+ul.actions li:first-child {
+  padding: 0;
+}
 
 /* Button */
+/* line 49, ../sass/style-mobilep.scss */
 input[type="submit"],
 input[type="reset"],
 input[type="button"],
 .button {
   display: block;
-  width: 100%; }
+  width: 100%;
+}
 
 /* Box */
+/* line 59, ../sass/style-mobilep.scss */
 .box {
-  padding: 2em 1em; }
+  padding: 2em 1em;
+}
 
 /* Feature */
+/* line 65, ../sass/style-mobilep.scss */
 .feature {
-  margin-bottom: 1em; }
-  .feature .content {
-    padding: 2em 1em !important; }
+  margin-bottom: 1em;
+}
+/* line 68, ../sass/style-mobilep.scss */
+.feature .content {
+  padding: 2em 1em !important;
+}
 
 /* Main */
+/* line 75, ../sass/style-mobilep.scss */
 #main {
   padding-left: 1em;
-  padding-right: 1em; }
+  padding-right: 1em;
+}
 
 /* Footer */
+/* line 82, ../sass/style-mobilep.scss */
 #footer {
   margin-top: -100px;
   padding-left: 1em;
-  padding-right: 1em; }
-  #footer .copyright li {
-    border: 0;
-    display: block;
-    margin: 0;
-    padding: 0.75em 0 0 0; }
+  padding-right: 1em;
+}
+/* line 88, ../sass/style-mobilep.scss */
+#footer .copyright li {
+  border: 0;
+  display: block;
+  margin: 0;
+  padding: 0.75em 0 0 0;
+}
 
 /* Header */
+/* line 99, ../sass/style-mobilep.scss */
 #header {
   padding-left: 2em;
-  padding-right: 2em; }
-  #header br {
-    display: none; }
-
-/*# sourceMappingURL=style-mobilep.css.map */
+  padding-right: 2em;
+}
+/* line 103, ../sass/style-mobilep.scss */
+#header br {
+  display: none;
+}
