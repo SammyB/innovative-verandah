@@ -15,3 +15,23 @@ footer.major {
   padding-left: 2em;
   padding-right: 2em;
 }
+
+/* line 27, ../sass/style-narrower.scss */
+header .sticky-contact {
+  text-align: center;
+  right: 0;
+  left: 0;
+  top: 0;
+  width: 115px;
+  margin: 0 auto;
+}
+/* line 34, ../sass/style-narrower.scss */
+header .sticky-contact a {
+  display: block;
+  font-size: 0.95em;
+  line-height: 25px;
+}
+/* line 39, ../sass/style-narrower.scss */
+header .sticky-contact span.break {
+  display: none;
+}

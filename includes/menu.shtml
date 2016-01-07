@@ -4,6 +4,9 @@
 			<span class="sr-only">toggle navigation</span>
 			<span class="drawer-hamburger-icon"></span>
 		</button>
+		<div class="sticky-contact">
+			<a href="/melbourne/request-a-quote">Request A Quote</a> <span class="break">&nbsp; | &nbsp;</span> <a href="tel:0400661778">CONTACT SHANE: 0400 661 778</a>
+		</div>
 	</div>
 	<div class="drawer-main drawer-default">
 		<nav class=" drawer-nav" role="navigation" style="transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); -webkit-transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); transition-duration: 0ms; -webkit-transition-duration: 0ms; transform: translate(0px, 0px) translateZ(0px);">

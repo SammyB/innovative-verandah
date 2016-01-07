@@ -3,6 +3,16 @@
 body.drawer-navbar.drawer-fixed {
   padding-top: 0;
 }
+
+.drawer-header {
+  background: rgba(000,000,000,0.4);
+  display: block;
+  width: 100%;
+  height: 80px;
+  position: fixed;
+  top: 0px;
+  z-index: 100;
+}
 .drawer-main {
   position: fixed;
   z-index: $drawer-main-zIndex;

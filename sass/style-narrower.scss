@@ -22,3 +22,20 @@
 			padding-right: 2em;
 		}
 	}
+
+	header {
+		.sticky-contact {
+			text-align: center;
+			right: 0;
+			left: 0;
+			top: 0;
+			width: 115px;
+			margin: 0 auto;
+			a {
+				display:block;
+				font-size: 0.95em;
+				line-height: 25px;
+			}
+			span.break{ display: none;}
+		}
+	}

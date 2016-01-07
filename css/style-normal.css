@@ -59,7 +59,7 @@ footer.major {
   background-attachment: scroll,							scroll,							scroll;
   background-image: url("images/top-1600.svg"), url("images/overlay.png"), url("../images/header.jpg");
   background-size: 1600px 230px,					auto,							cover;
-  padding: 6em 0 12em 0;
+  padding: 5em 0 6em 0;
 }
 /* line 69, ../sass/style-normal.scss */
 #header:before {
@@ -71,28 +71,29 @@ footer.major {
 }
 /* line 77, ../sass/style-normal.scss */
 #header h1 {
-  font-size: 2em;
+  font-size: 1.5em;
+  line-height: 1.75em;
 }
-/* line 81, ../sass/style-normal.scss */
+/* line 82, ../sass/style-normal.scss */
 #header p {
   font-size: 1.15em;
 }
 
 /* Footer */
-/* line 88, ../sass/style-normal.scss */
+/* line 89, ../sass/style-normal.scss */
 #footer {
   background-image: url("images/bottom-1600.svg");
   background-size: 1600px 230px;
   margin-top: -100px;
   padding: calc(230px + 4em) 0 6em 0;
 }
-/* line 94, ../sass/style-normal.scss */
+/* line 95, ../sass/style-normal.scss */
 #footer:before {
   height: calc(230px + 4em);
 }
 
 /* Main */
-/* line 101, ../sass/style-normal.scss */
+/* line 102, ../sass/style-normal.scss */
 #main {
   padding: 4em 0 3em 0;
 }

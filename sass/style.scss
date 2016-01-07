@@ -130,6 +130,16 @@
 			text-transform: uppercase;
 			letter-spacing: 0.075em;
 		}
+
+		.sticky-contact {
+			position: fixed;
+			top: 15px;
+			right: 10px;
+			width: auto;
+			z-index: 100;
+
+			span.break {color: $color-accent-bg;}
+		}
 		
 		&.major {
 			border-bottom-width: 1px;
@@ -721,7 +731,7 @@
 		background-repeat:			repeat-x,						repeat,					no-repeat;
 		background-size:			3200px 460px,					auto,					cover;
 		color: $color-accent2-fg;
-		padding: 10em 0 20em 0;
+		padding: 4.5em 0 6em 0;
 		position: relative;
 		text-align: center;
 
@@ -821,8 +831,13 @@
 				position: relative;
 			}
 		}
-		
+
 		h1 {
+			font-size: 1.5em;
+			line-height: 1.75em;
+		}
+		
+		.logo-melbourne {
 			display: inline-block;
 			height: 322px;
 			margin: 0 0 0.75em 0;

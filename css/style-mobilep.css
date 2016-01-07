@@ -86,6 +86,10 @@ input[type="button"],
   padding-right: 2em;
 }
 /* line 103, ../sass/style-mobilep.scss */
+#header .logo-melbourne {
+  height: 145px;
+}
+/* line 107, ../sass/style-mobilep.scss */
 #header br {
   display: none;
 }
