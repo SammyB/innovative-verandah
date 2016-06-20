@@ -15,7 +15,7 @@
 					<a href="/">Innovative Verandahs</a>
 				</div>
 				<ul class="drawer-menu">
-					<li class="drawer-menu-item"><a href="/">Home</a></li>
+					<!--<li class="drawer-menu-item"><a href="/">Home</a></li>-->
 					<li class="drawer-menu-item"><a href="/melbourne/about-verandahs/">About Us</a><li>
 					<li class="drawer-menu-item">
 						<a href="/melbourne/verandahs/">Verandahs</a>
@@ -40,6 +40,7 @@
 					</li>
 					<li class="drawer-menu-item"><a id="contact-scroll" href="#">Contact Us</a></li>
 					<li class="drawer-menu-item"><a id="contact-scroll" href="/melbourne/about-verandahs/location-melbourne.html">Location Melbourne</a></li>
+					<li class="drawer-menu-item"><a id="contact-scroll" href="/melbourne/testimonials/">Testimonials</a></li>
 				</ul>
 			
 			<div class="drawer-footer"><span></span></div>
