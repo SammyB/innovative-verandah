@@ -2,11 +2,12 @@
 	<div class="container 75%">
 
 		<ul class="icons">
-			<!--li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li-->
+			<li><a href="https://twitter.com/ShaneJSpiteri" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 			<li><a href="https://www.facebook.com/innovativeverandahs" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-			<!--li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li-->
+			<li><a href="https://www.instagram.com/innovativeverandahs/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+			<li><a href="https://plus.google.com/u/0/+Innovativeverandahs/about" class="icon fa-google"><span class="label">Google +</span></a></li>
+			<li><a href="http://www.linkedin.com/in/shanespiteri" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+			<li><a href="https://www.youtube.com/channel/UCjDIbdkxLFchONMj4N3h5sg/featured" class="icon fa-youtube"><span class="label">YouTube</span></a></li>
 		</ul>
 
 		<div class="melbourne-verandah-authorized">

@@ -5,7 +5,7 @@
 			<span class="drawer-hamburger-icon"></span>
 		</button>
 		<div class="sticky-contact">
-			<a href="/melbourne/request-a-quote">Request A Quote</a> <span class="break">&nbsp; | &nbsp;</span> <a href="tel:0400661778">CONTACT SHANE: 0400 661 778</a>
+			<a href="/melbourne/request-a-quote">Request A Quote</a> <span class="break">&nbsp; | &nbsp;</span> <a href="tel:0400661778">Contact Shane: 0400 661 778</a>
 		</div>
 	</div>
 	<div class="drawer-main drawer-default">
@@ -30,17 +30,12 @@
 					</li>
 					<li class="drawer-menu-item"><a href="/melbourne/request-a-quote">Request a Quote</a></li>
 					<li class="drawer-menu-item">
-						<a href="/melbourne/building-insurance-license">We've got it all covered.</a>
-						<ul class="drawer-submenu">
-							<li class="drawer-submenu-item"><a href="/melbourne/building-insurance-license/#building-permit">When do i need a building permit?</a></li>
-							<li class="drawer-submenu-item"><a href="/melbourne/building-insurance-license/#building-prac">Building practitioners</a></li>
-							<li class="drawer-submenu-item"><a href="/melbourne/building-insurance-license/#dbi">Domestic builders insurance</a></li>
-							<li class="drawer-submenu-item"><a href="/melbourne/building-insurance-license/#contracts">What should be in the contract?</a></li>
-						</ul>
+						<a href="/melbourne/building-insurance-license">FAQs</a>
 					</li>
 					<li class="drawer-menu-item"><a id="contact-scroll" href="#">Contact Us</a></li>
 					<li class="drawer-menu-item"><a id="contact-scroll" href="/melbourne/about-verandahs/location-melbourne.html">Location Melbourne</a></li>
 					<li class="drawer-menu-item"><a id="contact-scroll" href="/melbourne/testimonials/">Testimonials</a></li>
+                    <li class="drawer-menu-item"><a id="contact-scroll" href="/melbourne/client-login/">Login</a></li>
 				</ul>
 			
 			<div class="drawer-footer"><span></span></div>

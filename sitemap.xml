@@ -74,5 +74,34 @@
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
    </url>
-   
+   <url>
+      <loc>http://www.innovativeverandahs.com/melbourne/testimonials/</loc>
+      <lastmod>2015-06-10</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>http://www.innovativeverandahs.com/melbourne/testimonials/tarneit-3029.html</loc>
+      <lastmod>2015-12-12</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>http://www.innovativeverandahs.com/melbourne/testimonials/lancefield-3435.html</loc>
+      <lastmod>2015-12-12</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>http://www.innovativeverandahs.com/melbourne/testimonials/avondale-heights-3034.html</loc>
+      <lastmod>2015-12-12</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>http://www.innovativeverandahs.com/melbourne/testimonials/basalt-terrace-epping-3076.html</loc>
+      <lastmod>2015-12-12</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
 </urlset> 

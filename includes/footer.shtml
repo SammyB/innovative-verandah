@@ -4,7 +4,10 @@
 			<h2>Contact us for a Free Quote</h2>
 		</header>
 		<p>Use the form below, or contact Shane on <span itemprop="telephone"><a href="tel:0400661778">0400661778</a></span>.<br>Alternatively email us directly on <a href="mailto:shane@innovativeverandahs.com?Website%20Enquiry" itemprop="email">shane@innovativeverandahs.com</a></p>
-		<form id="ajax-contact-form" action="javascript:alert('success!');">
+		
+		
+		
+		<form  id="ajax-contact-form" action="javascript:alert('success!');">
 			<fieldset class="info_fieldset">
 				<div id="note--field"></div>
 				<div id="fields">
@@ -53,9 +56,12 @@
 			</fieldset>
 		</form>
 		<ul class="icons">
-			<!--li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li-->
+			<li><a href="https://twitter.com/ShaneJSpiteri" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 			<li><a href="https://www.facebook.com/innovativeverandahs" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-			<!--li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li-->
+			<li><a href="https://www.instagram.com/innovativeverandahs/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+			<li><a href="https://plus.google.com/u/0/+Innovativeverandahs/about" class="icon fa-google"><span class="label">Google +</span></a></li>
+			<li><a href="http://www.linkedin.com/in/shanespiteri" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+			<li><a href="https://www.youtube.com/channel/UCjDIbdkxLFchONMj4N3h5sg/featured" class="icon fa-youtube"><span class="label">YouTube</span></a></li>
 		</ul>
 		<div class="melbourne-verandah-authorized">
 			<a href="http://www.stratco.com.au/" target="_blank"><img src="/images/stratco-logo.png" alt="Authorized Stratco Dealer" title="Authorized Stratco Dealer" /></a>
